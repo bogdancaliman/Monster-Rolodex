@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![](./public/Monsters.png)
 
+## Class Component Lifecycle Methods
+
+![](./public/Class_Component_Lifecycle.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
